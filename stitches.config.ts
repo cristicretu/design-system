@@ -72,6 +72,7 @@ export const theme = {
     $violet800: 'hsl(252, 62%, 54.9%)',
     $violet900: 'hsl(250, 55%, 48.0%)',
 
+    
     $indigo100: 'hsl(226, 100%, 99.0%)',
     $indigo200: 'hsl(226, 83%, 96.3%)',
     $indigo300: 'hsl(226, 80%, 93.3%)',
